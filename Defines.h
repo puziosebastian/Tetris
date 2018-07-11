@@ -1,0 +1,8 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+#define SCREEN_WIDTH	640
+#define SCREEN_HEIGHT	480
+#define MOVEMENT_SPEED 150
+#define SPEED 100
+#define TIMELIMIT 100
+#endif
